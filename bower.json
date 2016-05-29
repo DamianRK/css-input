@@ -1,0 +1,20 @@
+{
+  "name": "css-input",
+  "version": "1.0.0",
+  "homepage": "https://github.com/DamianRK/css-input",
+  "authors": [
+    "Damian B <damian@websolutionsnyc.com>"
+  ],
+  "description": "Custom radio/checkbox",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

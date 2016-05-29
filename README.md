@@ -1,10 +1,10 @@
-Forms / inputs + buttons
+Custom radio/checkbox
 ==================================
 
 ## See
 	
-	/src/_form.scss
-	/src/_button.scss
+	/skin/frontend/rwd/wsnyc/src/scss/vendor/_custom-checkbox.scss
+	/skin/frontend/rwd/wsnyc/src/scss/vendor/_custom-radio.scss
 
 
 ## Author
