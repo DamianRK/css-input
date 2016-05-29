@@ -6,10 +6,6 @@ Forms / inputs + buttons
 	/src/_form.scss
 	/src/_button.scss
 
-## Example
-
-![Alt text](/docs/img/input.001.png "Form")
-
 
 ## Author
 
