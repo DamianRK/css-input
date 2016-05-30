@@ -2,6 +2,12 @@
   Radio Buttons
 ***************/
 
+[type="radio"] {
+    + label, + label:before, + label:after {
+        box-sizing: content-box;
+    }
+}
+
 /* Remove default Radio Buttons */
 [type="radio"]:not(:checked),
 [type="radio"]:checked {

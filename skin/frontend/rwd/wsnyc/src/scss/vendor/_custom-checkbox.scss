@@ -12,6 +12,9 @@
 
 // Checkbox Styles
 [type="checkbox"] {
+    + label, + label:before, + label:after {
+        box-sizing: content-box;
+    }
     + label {
         position: relative;
         padding-left: 35px;
